@@ -1,0 +1,42 @@
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+    background-color: rgb(255, 229, 209);
+    color: #000;
+}
+body div{
+    margin-left: 5%;
+}
+body h2{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 5%;
+}
+body a{
+    color: rgb(255, 124, 1);
+    display: block;
+    margin-top: 2%;
+}
+body #link:link{
+    color: rgb(255, 136, 0);
+}
+body #visited:visited {
+    color: orangered;
+}
+body p{
+    color: rgb(251, 228, 152);
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+body #hover:hover{
+    font-weight: bold;
+}
+body #active:active{
+    color: salmon;
+}
+body #focus:focus{
+    color: rgb(245, 226, 212);
+}
+body input {
+    margin-top: 2%;
+    margin-left: 2%;
+}
